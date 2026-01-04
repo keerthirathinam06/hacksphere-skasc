@@ -18,7 +18,7 @@ const TimelineSection = () => {
     },
     {
       date: "JAN 25, 2026",
-      title: "Finalist Announcement",
+      title: "Finalist Announcement ",
       description: "Shortlisted teams will be announced",
       status: "upcoming",
       color: "accent"
